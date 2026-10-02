@@ -77,23 +77,3 @@ turning data into insights that drive better decisions.
 | 🔐 [File Encryption CLI](https://github.com/[USERNAME]/file-encryption-cli) | Command-line tool to encrypt and decrypt files | Python |
 | 🧮 [DSA in C](https://github.com/[USERNAME]/dsa-in-c) | Core data structures and algorithms with complexity notes | C |
 
-<h3 align="left">🌐 Socials</h3>
-
-<p align="left">
-  <a href="https://github.com/[USERNAME]" target="_blank"><img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="GitHub" width="32" height="32"/></a>
-  <a href="[LINKEDIN_URL]" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
-  <a href="mailto:personal.email@example.com"><img src="https://cdn.simpleicons.org/gmail" alt="Email" width="32" height="32"/></a>
-</p>
-
-<h3 align="left">📊 Badges</h3>
-
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <a href="https://github.com/[USERNAME]"><img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" height="165"/></a>
-  <a href="https://github.com/[USERNAME]"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165"/></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/[USERNAME]"><img src="https://streak-stats.demolab.com/?user=[USERNAME]&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/></a>
-</p>
