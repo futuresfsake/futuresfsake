@@ -1,12 +1,6 @@
-<!--
-  HOW TO USE
-  1. Create a PUBLIC repo named exactly like your GitHub username.
-  2. Paste this file as its README.md.
-  3. Replace every [USERNAME], [LINKEDIN_URL], and personal.email@example.com.
-  4. Keep it honest: only list skills you can explain in an interview.
--->
 
-<h1 align="left">Hi 👋 My name is Chelsea Colaljo</h1>
+
+<h1 align="left">Chelsea Colaljo</h1>
 
 <h3 align="left">💻 Software Engineer · Full-Stack Developer · 📊 Data Enthusiast</h3>
 
@@ -32,11 +26,11 @@ turning data into insights that drive better decisions.
 <h3 align="left">🧑‍💻 Languages</h3>
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
-  <a href="https://go.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" title="Bash" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40" height="40"/></a>
 </p>
