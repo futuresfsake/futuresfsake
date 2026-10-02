@@ -68,11 +68,3 @@ turning data into insights that drive better decisions.
 
 <sub>Docker · Git & GitHub · CI/CD · Automated Testing · Database Systems (SQL) · VS Code</sub>
 
-<h3 align="left">📌 Featured Projects</h3>
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎬 [Revflix](https://github.com/[USERNAME]/revflix) | Horror movie review platform where users browse films and post reviews | JavaScript, EJS, Firebase |
-| 🔐 [File Encryption CLI](https://github.com/[USERNAME]/file-encryption-cli) | Command-line tool to encrypt and decrypt files | Python |
-| 🧮 [DSA in C](https://github.com/[USERNAME]/dsa-in-c) | Core data structures and algorithms with complexity notes | C |
-
