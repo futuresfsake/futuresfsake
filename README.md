@@ -17,14 +17,13 @@ under the hood, and writing clean, tested, and maintainable code. I'm also inter
 turning data into insights that drive better decisions.
 </p>
 
-- 🎓 4th-year **BSIT** student at the **University of San Carlos**, Cebu, Philippines 🇵🇭
-- 💼 Currently a **Software Engineering Intern**
-- 🏗️ Passionate about **software engineering, full-stack development, and system design**
-- 📊 Interested in **data analytics and data science**
-- 🌱 I'm learning **[e.g. system design, cloud fundamentals, data analysis with Python]**
-- 🤝 I'm open to collaborating on **web apps, backend systems, and data projects**
-- 📫 You can contact me at **[personal.email@example.com](mailto:personal.email@example.com)**
-- ⚡ Fun fact: **[something true and fun about you]**
+- 🎓 4th-year **BSIT** student at the University of San Carlos, Cebu, Philippines 🇵🇭
+- 💼 Currently a Software Design Engineering Intern
+- 🏗️ Passionate about software engineering, full-stack development, and system design.
+- 📊 Interested in data analytics and data engineering.
+- 🌱 I'm learning  system design, cloud fundamentals, data analysis with Python.
+- 📫 You can contact me at chlseacllj@gmail.com
+
 
 <p align="left">
   <a href="https://github.com/[USERNAME]?tab=followers"><img src="https://img.shields.io/github/followers/[USERNAME]?label=FOLLOW%20%40[USERNAME]&style=social" alt="Follow [USERNAME]" /></a>
